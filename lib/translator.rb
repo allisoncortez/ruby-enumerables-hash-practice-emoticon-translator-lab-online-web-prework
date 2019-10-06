@@ -26,12 +26,11 @@ def get_japanese_emoticon(path,emoticon)
   # returns the Japanese equivalent of the English emoticon
   result = emoticons["get_emoticon"][emoticon]
   
-  if
+  if result
+    result
   else
+    "Sorry, that emoticon was not found"
   end
-  
-  
-  
 end
 
 
