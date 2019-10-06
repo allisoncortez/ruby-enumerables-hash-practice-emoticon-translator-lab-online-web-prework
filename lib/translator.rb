@@ -23,6 +23,12 @@ def get_japanese_emoticon(path,emoticon)
   #call load_library
   emoticons = load_library(path)
   
+  # returns the Japanese equivalent of the English emoticon
+  if
+else
+  
+  
+  
 end
 
 
