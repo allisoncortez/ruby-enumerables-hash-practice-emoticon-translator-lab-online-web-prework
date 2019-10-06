@@ -39,7 +39,7 @@ def get_english_meaning(path,emoticon)
   emoticons = load_library(path)
   
   # returns the English equivalent of the Japanese emoticon
-  result = emoticons["get_emoticon"][emoticon]
+  result = emoticons["get_meaning"][emoticon]
   
   if result
     result
