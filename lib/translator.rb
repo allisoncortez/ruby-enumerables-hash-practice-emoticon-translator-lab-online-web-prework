@@ -18,9 +18,9 @@ def load_library(path)
 end
 
 
-
-def get_japanese_emoticon
-  # code goes here
+# accepts two arguments, the YAM file path and the emoticon
+def get_japanese_emoticon(path,emoticon)
+  
   
 end
 
